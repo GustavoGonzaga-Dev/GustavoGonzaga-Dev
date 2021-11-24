@@ -1,8 +1,8 @@
 ### Gonzaguinha na área👋
 
 
-- 🤔 Atualmente trabalho com .NET e SQLServer
-- ⚡ Estudando Flutter
+- ⚡ Atualmente trabalho com .NET e SQLServer
+-  :trollface: Estudando Flutter
 - 📫 Contate-me no email: gustavogonzagafarias@gmail.com
 
 <div align="center">
