@@ -2,7 +2,7 @@
 
 
 - :computer: Atualmente trabalho com .NET e SQLServer
-- :scroll: Estudando React Native e NodeJS
+- :scroll: Estudando Flutter
 - 📫 Contate-me no email: gustavogonzagafarias@gmail.com
 
 <div align="center">
